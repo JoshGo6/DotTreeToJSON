@@ -1,0 +1,285 @@
+    <toc-element topic="home.md" toc-title="Amelia 6 Help"/>
+    <toc-element toc-title="%General.Amelia.application% Getting Started" topic="A00-00_0001-Amelia-GS-Landing.md">
+        <toc-element toc-title="Quick Start">
+            <toc-element toc-title="%General.Amelia.application% Platform Introduction" topic="A02-00_0001-Amelia-Plat-Intro.md"/>
+            <toc-element toc-title="Access Amelia"topic="A02-00_0002-Access-Amelia-Plat.md"/>
+            <toc-element toc-title="Navigate Amelia" topic="A02-00_0003-Nav-Amelia-Plat.md"/>
+            <toc-element toc-title="%General.Amelia.application% and Responsible AI" topic="A02-00_0007-Amelia-Responsible-AI.md"/>
+            <toc-element toc-title="%General.Amelia.application% and Accessibility" topic="A02-00_0008-Amelia-Accessibility.md"/>
+            <toc-element toc-title="Navigate %General.Amelia.application%'s Product Support" topic="A02-00_0050-Nav-Amelia-Support.md">
+                <toc-element toc-title="How-to: Request a New %General.Amelia.application% Domain" topic="A02-00_0052-HT-Req-New-Amelia-Domain.md"/>
+                <toc-element toc-title="How-to: Request an %General.Amelia.application% Domain Modification" topic="A02-00_0053-HT-Req-Amelia-Domain-Modification.md"/>
+                <toc-element toc-title="How-to: Configure OAuth With REST Gateway" topic="B03-05_0210-HT-Config-OAuth-With-REST.md"/>
+                <toc-element toc-title="How-to: Request %General.Amelia.application% Access" topic="A02-00_0054-HT-Req-Amelia-Access.md"/>
+                <toc-element toc-title="How-to: Request a User Permission Change" topic="A02-00_0055-HT-Req-Amelia-User-Perm-Chng.md"/>
+                <toc-element toc-title="How-to: Request a Password Reset" topic="A02-00_0056-HT-Req-Amelia-PW-Reset.md"/>
+                <toc-element toc-title="How-to: Create a Ticket" topic="A02-00_0057-HT-Create-a-Ticket.md"/>
+                <toc-element toc-title="How-to: Get a Ticket Status" topic="A02-00_0058-HT-Req-Ticket-Status.md"/>
+                <toc-element toc-title="How-to: Update a Ticket" topic="A02-00_0059-HT-Update-Ticket.md"/>
+            </toc-element>
+            <toc-element toc-title="Light and Dark Mode" topic="A02-00_0009-Light-Dark-Mode.md"/>
+        </toc-element>
+        <toc-element toc-title="What's New in %General.Amelia.application% 6.x" topic="Whats-New-in-Amelia-6.md"/>
+        <toc-element toc-title="%General.Amelia.application% 6.x Release Notes" topic="Amelia-6-x-Release-Notes.md"/>
+        <toc-element toc-title="Glossary" topic="Amelia-Glossary.md"/>
+    </toc-element>
+    <toc-element toc-title="%General.Amelia.application% User Guide" topic="B00-00_0001-Amelia-UG-Landing.md">
+        <toc-element toc-title="The %General.Amelia.application% Chat Workspace Walkthrough" topic="B02-00_0002-Amelia-Chat-Walkthrough.md"/>
+        <toc-element toc-title="Digital Employees">
+            <toc-element toc-title="%B03-Digital-Empl.Digital.Employees.workspace% Workspace Introduction" topic="B03-00_0001-Digital-Employees-Workspace-Intro.md"/>
+            <toc-element toc-title="%B03-Digital-Empl.Digital.Employees.workspace% Workspace Walkthrough" topic="B03-00_0002-Digital-Employees-Workspace-Walkthrough.md"/>
+            <toc-element toc-title="Conversation Flows">
+                <toc-element toc-title="Managing Conversation Flows" topic="B03-04_0101-Conversation-Flows-Management.md">
+                    <toc-element toc-title="%B03-Digital-Empl.Digital.Employees.Builder.Heading% Introduction" topic="B03-04_0102-Dig-Empl-Builder-Intro.md"/>
+                    <toc-element toc-title="%B03-Digital-Empl.Digital.Employees.Builder.Heading% Walkthrough" topic="B03-04_0103-Dig-Empl-Builder-Walk.md"/>
+                </toc-element>
+                <toc-element toc-title="Block Library" topic="B03-04_0111-Flows-Block-Library.md">
+                    <toc-element toc-title="%General.Amelia.application% Asks Block" topic="B03-04_0114-Amelia-Asks-Block.md"/>
+                    <toc-element toc-title="%General.Amelia.application% Says Block" topic="B03-04_0113-Amelia-Says-Block.md"/>
+                    <toc-element toc-title="Backend Block" topic="B03-04_0118-Backend-Block.md"/>
+                    <toc-element toc-title="Call Intent Block" topic="B03-04_0121-Call-Intent-Block.md"/>
+                    <toc-element toc-title="Card Block" topic="B03-04_0123-Card-Block.md"/>
+                    <toc-element toc-title="Escalation Block" topic="B03-04_0127-Escalation-Block.md"/>
+                    <toc-element toc-title="Exit Block" topic="B03-04_0126-Exit-Block.md"/>
+                    <toc-element toc-title="Gateway Block" topic="B03-04_0124-Gateway-Block.md"/>
+                    <toc-element toc-title="Intent Block" topic="B03-04_0112-Intent-Block.md"/>
+                    <toc-element toc-title="Present Block" topic="B03-04_0115-Present-Block.md"/>
+                    <toc-element toc-title="Push Conversation Block" topic="B03-04_0122-Push-Conversation-Block.md"/>
+                    <toc-element toc-title="Request Block" topic="B03-04_0116-Request-Block.md"/>
+                    <toc-element toc-title="Script Block" topic="B03-04_0120-Script-Block.md"/>
+                    <toc-element toc-title="Split Block" topic="B03-04_0128-Split-Block.md"/>
+                    <toc-element toc-title="Subflow Block" topic="B03-04_0119-Subflow-Block.md"/>
+                    <toc-element toc-title="User Utterance Block" topic="B03-04_0117-User-Utterance-Block.md"/>
+                    <toc-element toc-title="Wait Block" topic="B03-04_0125-Wait-Block.md"/>
+                </toc-element>
+                <toc-element toc-title="Scripts">
+                    <toc-element toc-title="Scripts Introduction" topic="B03-04_0401-Scripts-Intro.md"/>
+                    <toc-element toc-title="Scripts Management" topic="B03-04_0403-Scripts-Management.md"/>
+                    <toc-element toc-title="Service Handles">
+                        <toc-element toc-title="Service Handles Library" topic="B03-04_0421-Service-Handles-Library.md"/>
+                        <toc-element toc-title="Content Management Service" topic="B03-04_0423-Content-Management-Service.md"/>
+                        <toc-element toc-title="Content Pack Service" topic="B03-04_0444-Content-Pack-Service.md"/>
+                        <toc-element toc-title="Context Service" topic="B03-04_0424-Context-Service.md"/>
+                        <toc-element toc-title="Conversation Service" topic="B03-04_0425-Conversation-Service.md"/>
+                        <toc-element toc-title="Custom Metric Service" topic="B03-04_0426-Custom-Metric-Service.md"/>
+                        <toc-element toc-title="Dialog Act Service" topic="B03-04_0427-Dialog-Act-Service.md"/>
+                        <toc-element toc-title="Escalation Queue Service" topic="B03-04_0428-Escalation-Queue-Service.md"/>
+                        <toc-element toc-title="Execution Object Service" topic="B03-04_0429-Execution-Object-Service.md"/>
+                        <toc-element toc-title="FAQ Service" topic="B03-04_0443-FAQ-Service.md"/>
+                        <toc-element toc-title="Integration Service" topic="B03-04_0430-Integration-Service.md"/>
+                        <toc-element toc-title="Logging Service" topic="B03-04_0431-Logging-Service.md"/>
+                        <toc-element toc-title="Message Service" topic="B03-04_0432-Message-Service.md"/>
+                        <toc-element toc-title="Quantity Service" topic="B03-04_0433-Quantity-Service.md"/>
+                        <toc-element toc-title="Response Pool Service" topic="B03-04_0434-Response-Pool-Service.md"/>
+                        <toc-element toc-title="Segmentation Service" topic="B03-04_0441-Segmentation-Service.md"/>
+                        <toc-element toc-title="Tabular Service" topic="B03-04_0435-Tabular-Service.md"/>
+                        <toc-element toc-title="Text Service" topic="B03-04_0436-Text-Service.md"/>
+                        <toc-element toc-title="Transient Variable Service" topic="B03-04_0438-Transient-Variable-Service.md"/>
+                        <toc-element toc-title="Translation Service" topic="B03-04_0437-Translation-Service.md"/>
+                        <toc-element toc-title="User Service" topic="B03-04_0439-User-Service.md"/>
+                        <toc-element toc-title="Voice Service" topic="B03-04_0440-Voice-Service.md"/>
+                    </toc-element>
+                    <toc-element toc-title="Connection Services">
+                        <toc-element toc-title="Connection Services Library" topic="B03-04_0470-Connect-Service-Handles-Library.md"/>
+                        <toc-element toc-title="Response Connection Service" topic="B03-04_0476-Response-Conn-Service.md"/>
+                        <toc-element toc-title="Channel Connection Service" topic="B03-04_0472-Channel-Conn-Service.md"/>
+                        <toc-element toc-title="Dialog Action Connection Service" topic="B03-04_0473-Dialog-Act-Conn-Service.md"/>
+                        <toc-element toc-title="Entity Connection Service" topic="B03-04_0474-Entity-Conn-Service.md"/>
+                        <toc-element toc-title="Math Connection Service" topic="B03-04_0475-Math-Conn-Service.md"/>
+                        <toc-element toc-title="Response Connection Service" topic="B03-04_0476-Con-Serv-Response-Ops.md"/>
+                        <toc-element toc-title="Response Pool Connection Service" topic="B03-04_0477-Response-Pool-Conn-Service.md"/>
+                        <toc-element toc-title="Quantity Connection Service" topic="B03-04_0478-Quantity-Conn-Service.md"/>
+                        <toc-element toc-title="Service Operations Connection Service" topic="B03-04_0479-Service-Ops-Con-Serv.md"/>
+                        <toc-element toc-title="Upload Connection Service" topic="B03-04_0480-Upload-Conn-Service.md"/>
+                        <toc-element toc-title="Utility Connection Service" topic="B03-04_0481-Utility-Conn-Service.md"/>
+                        <toc-element toc-title="Voice Operations Connection Service" topic="B03-04_0482-Voice-Ops-Conn-Service.md"/>
+                        <toc-element toc-title="Working Memory Connection Service" topic="B03-04_0483-Working-Memory-Conn-Service.md"/>
+                    </toc-element>
+                    <toc-element toc-title="Sandboxing and Whitelists"
+                                 topic="B03-04_0404-Script-Sandboxing-and-Whitelist.md"/>
+                </toc-element>
+                <toc-element toc-title="Content Management">
+                    <toc-element toc-title="Content Management Introduction" topic="B03-04_0501-Content-Management-Intro.md"/>
+                    <toc-element toc-title="Content Management Configuration" topic="B03-04_0503-Content-Management-Configuration.md"/>
+                </toc-element>
+                <toc-element toc-title="Tabular Data">
+                    <toc-element toc-title="Tabular Data Introduction" topic="B03-04_0601-Tabular-Data-Intro.md"/>
+                    <toc-element toc-title="Tabular Data Management" topic="B03-04_0603-Tabular-Data-Management.md"/>
+                </toc-element>
+                <toc-element toc-title="UiPath">
+                    <toc-element toc-title="UiPath Introduction" topic="B03-04_0801-UiPath-Instance-Intro.md"/>
+                    <toc-element toc-title="UiPath Management" topic="B03-04_0802-UiPath-Instance-Management.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Web Actions">
+                <toc-element toc-title="Web Actions Introduction" topic="B03-05_0101-Web-Actions-Intro.md"/>
+                <toc-element toc-title="Web Actions Configuration" topic="B03-05_0102-Web-Actions-Configuration.md"/>
+                <toc-element toc-title="Authorizations Introduction" topic="B03-05_0201-Authorizations-Intro.md"/>
+                <toc-element toc-title="Authorizations Management" topic="B03-05_0202-Authorizations-Management.md"/>
+                <toc-element toc-title="Certificates Introduction" topic="B03-05_0301-Certificates-Intro.md"/>
+                <toc-element toc-title="Certificates Management" topic="B03-05_0302-Certificates-Management.md"/>
+                <toc-element toc-title="Proxies Introduction" topic="B03-05_0401-Proxies-Intro.md"/>
+                <toc-element toc-title="Proxies Management" topic="B03-05_0402-Proxies-Management.md"/>
+            </toc-element>
+            <toc-element toc-title="Integrations">
+                <toc-element toc-title="Gateway Integrations">
+                    <toc-element toc-title="Gateway Integrations Introduction" topic="B03-06_0101-Gateway-Integrations-Intro.md"/>
+                    <toc-element toc-title="Gateway Integrations Management" topic="B03-06_0105-Gateway-Integrations-Management.md"/>
+                    <toc-element toc-title="Firebase Gateway" topic="B03-06_0112-HT-Config-Amelia-for-Firebase-Cloud-Messaging.md"/>
+                    <toc-element toc-title="Five9 Gateway" topic="B03-06_0142-HT-Config-Amelia-for-Five9.md"/>
+                    <toc-element toc-title="PureEngage Gateway" topic="B03-06_0116-HT-Config-Amelia-for-Genesys-PureEngage.md"/>
+                    <toc-element toc-title="Genesys Web Messaging Gateway" topic="B03-06_0140-HT-Config-Amelia-for-Genesys-WebMsg.md"/>
+                    <toc-element toc-title="MS Teams Gateway" topic="B03-06_0121-HT-Config-Amelia-for-Microsoft-Teams.md"/>
+                    <toc-element toc-title="ServiceNow Agent Chat Gateway" topic="B03-06_0127-HT-Config-Amelia-for-ServiceNow-Agent-Chat.md"/>
+                    <toc-element toc-title="ServiceNow Virtual Agent Gateway" topic="B03-06_0129-HT-Config-Amelia-for-ServiceNow-Virtual-Agent.md"/>
+                    <toc-element toc-title="Amelia Voice Gateway" topic="B03-06_0139-HT-Config-Amelia-Voice-Gateway.md"/>
+                    <toc-element toc-title="Zendesk Sunshine Gateway" topic="B03-06_0137-HT-Config-Amelia-for-Zendesk-Sunshine.md"/>
+                    <toc-element toc-title="Zendesk Sunshine Escalation Gateway" topic="B03-06_0141-HT-Config-Amelia-for-Zendesk-Sunshine-Escalation.md"/>
+                    <toc-element toc-title="Other Gateways" topic="B03-06_0160-HT-Other-Gateways.md"/>
+                </toc-element>
+                <toc-element toc-title="Integrations Flows">
+                    <toc-element toc-title="Integration Flows Introduction" topic="B03-06_0201-Integrations-Intro.md"/>
+                    <toc-element toc-title="INtegration Flows Management" topic="B03-06_0205-Integrations-Management.md"/>
+                    <toc-element toc-title="Templates Introduction" topic="B03-06_0301-Templates-Intro.md"/>
+                    <toc-element toc-title="Templates Management" topic="B03-06_0303-Templates-Management.md"/>
+                    <toc-element toc-title="Assets Introduction" topic="B03-06-Integrations_B03-06_0401-Assets-Intro.md"/>
+                    <toc-element toc-title="Assets Management" topic="B03-06_0402-Assets-Management.md"/>
+                    <toc-element toc-title="Property Sets Introduction" topic="B03-06_0501-Property-Sets-Intro.md"/>
+                    <toc-element toc-title="Property Sets Management" topic="B03-06_0502-Property-Sets-Management.md"/>
+                    <toc-element toc-title="Integration Logs Introduction" topic="B03-06_0601-Integration-Logs-Intro.md"/>
+                    <toc-element toc-title="Introduction Logs Management" topic="B03-06_0602-Integration-Logs-Management.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="NLU Comprehension">
+                <toc-element toc-title="NLU Comprehension Introduction" topic="B03-07_0002-NLU-Comprehension-Intro.md"/>
+                <toc-element toc-title="Datum Types Library" topic="B03-07_0101-Datum-Types-Library.md"/>
+                <toc-element toc-title="Intents Introduction" topic="B03-07_0201-Intents-Intro.md"/>
+                <toc-element toc-title="Intents Management" topic="B03-07_0203-Intents-Management.md"/>
+                <toc-element toc-title="Entities Introduction" topic="B03-07-NLU-Comprehension_B03-07_0301-Entities-Intro.md"/>
+                <toc-element toc-title="Entities Management" topic="B03-07_0302-Entities-Management.md"/>
+                <toc-element toc-title="Models Introduction" topic="B03-07-NLU-Comprehension_B03-07_0701-Models-Intro.md"/>
+                <toc-element toc-title="Models Management" topic="B03-07_0703-Models-Configuration.md"/>
+                <toc-element toc-title="NLU Settings Configuration" topic="B03-07_0901-NLU-Settings-Configuration.md"/>
+            </toc-element>
+            <toc-element toc-title="NLU Resources">
+                <toc-element toc-title="NLU Resources Introduction" topic="B03-08_0002-NLU-Resources-Intro.md"/>
+                <toc-element toc-title="Response Pools Introduction" topic="B03-08-NLU-Resources_B03-08_0301-Response-Pools-Intro.md"/>
+                <toc-element toc-title="Response Pools Management" topic="B03-08_0303-Response-Pools-Management.md"/>
+                <toc-element toc-title="Cognitive Task Introduction" topic="B03-08_0601-Cog-Task-Config-Intro.md"/>
+                <toc-element toc-title="Cognitive Task Management" topic="B03-08_0603-Cog-Task-Mgmt.md"/>
+                <toc-element toc-title="How-to: Enable Cognitive Tasks for %B04-Amelia-Answers.Amelia.Answers.workspace%" topic="B03-08_0604-HT-Precon-AAnswers-CogTask.md"/>
+                <toc-element toc-title="Cognitive Provider Introduction" topic="B03-08_0701-Cog-Provider-Intro.md"/>
+                <toc-element toc-title="Cognitive Provider Management" topic="B03-08_0703-Cog-Provider-Mgmt.md"/>
+                <toc-element toc-title="How-to: Enable an LLM Cognitive Provider for %B04-Amelia-Answers.Amelia.Answers.workspace%" topic="B03-08_0704-HT-Precon-AAnswers-CogProvider.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="%B04-Amelia-Answers.Settings.feature%">
+            <toc-element toc-title="%B04-Amelia-Answers.Settings.feature% Introduction" topic="B04-00_0001-Amelia-Ans-Intro.md"/>
+            <toc-element toc-title="%B04-Amelia-Answers.Settings.feature% Walkthrough" topic="B04-00_0002-Amelia-Ans-Walk.md"/>
+            <toc-element toc-title="Sources">
+                <toc-element toc-title="Source Management" topic="B04-01_0002-Sources-Management.md"/>
+                <toc-element toc-title="Best Practices: Sources" topic="B04-01_0003-BP-Sources.md"/>
+                <toc-element toc-title="Knowledge Collection Management" topic="B04-01_0102-Knowledge-Collections-Management.md"/>
+                <toc-element toc-title="How-to: Configure Knowledge Source Segmentation" topic="B04-01_0007-HT-Config-KSource-Segmentation.md"/>
+            </toc-element>
+            <toc-element toc-title="Analytics Management" topic="B04-02_0003-Analytics-Management.md"/>
+            <toc-element toc-title="Predict Configuration" topic="B04-03_0003-Predict-Configuration.md"/>
+            <toc-element toc-title="Responses Management" topic="B04-04_0003-Responses-Management.md"/>
+            <toc-element toc-title="Tests Management" topic="B04-05_0004-Tests-Management.md"/>
+            <toc-element toc-title="%B04-Amelia-Answers.Settings.feature% Configuration" topic="B04-06_0003-Settings-Configuration.md"/>
+        </toc-element>
+        <toc-element toc-title="Contact Center">
+            <toc-element toc-title="Contact Center Introduction" topic="B05-00_0001-Contact-Center-Workspace-Intro.md"/>
+            <toc-element toc-title="Contact Center Walkthrough" topic="B05-00_0002-Contact-Center-Workspace-Walkthrough.md"/>
+            <toc-element toc-title="Supervisor Dashboard Walkthrough" topic="B05-01_0003-Supervisor-Dashboard-Walkthrough.md"/>
+            <toc-element toc-title="Escalation Queues">
+                <toc-element toc-title="Escalation Queues Introduction" topic="B05-02_0002-Escalation-Queues-Intro.md"/>
+                <toc-element toc-title="Escalation Queues Management" topic="B05-02_0003-Escalation-Queues-Management.md"/>
+            </toc-element>
+            <toc-element toc-title="Escalation Teams">
+                <toc-element toc-title="Escalation Teams Introduction" topic="B05-03_0002-Escalation-Teams-Intro.md"/>
+                <toc-element toc-title="Escalation Teams Management" topic="B05-03_0003-Escalation-Teams-Management.md"/>
+            </toc-element>
+            <toc-element toc-title="Response Templates Walkthrough" topic="B05-04_0001-Response-Templates-Walkthrough.md"/>
+            <toc-element toc-title="Contact Center Settings Walkthrough" topic="B05-05_0001-Contact-Center-Settings-Walkthrough.md"/>
+        </toc-element>
+        <toc-element toc-title="Agent Console">
+            <toc-element toc-title="Agent Workspace Introduction" topic="B06-00_0001-Agent-Workspace-Intro.md"/>
+            <toc-element toc-title="Agent Workspace Walkthrough" topic="B06-00_0002-Agent-Workspace-Walkthrough.md"/>
+        </toc-element>
+        <toc-element toc-title="Learning">
+            <toc-element toc-title="Learning Workspace Walkthrough" topic="B07-00_0001-Learning-Workspace-Intro.md"/>
+            <toc-element toc-title="Learning Workspace Management" topic="B07-00_0002-Learning-Workspace-Walkthrough.md"/>
+        </toc-element>
+        <toc-element toc-title="Analytics">
+            <toc-element toc-title="Analytics Workspace Introduction" topic="B08-00_0001-Analytics-Workspace-Intro.md"/>
+            <toc-element toc-title="Analytics Workspace Walkthrough" topic="B08-00_0002-Analytics-Workspace-Walkthrough.md"/>
+            <toc-element toc-title="Analytics">
+                <toc-element toc-title="Conversations Walkthrough" topic="B08-02_0001-Conversations-Walkthrough.md"/>
+                <toc-element toc-title="Dashboard Walkthrough" topic="B08-02_0003-Dashboard-Walkthrough.md"/>
+                <toc-element toc-title="Reports Walkthrough" topic="B08-02_0102-Reports-Walkthrough.md"/>
+                <toc-element toc-title="User Feedback Walkthrough" topic="B08-02_0202-User-Feedback-Walkthrough.md"/>
+            </toc-element>
+            <toc-element toc-title="Journey Analytics Walkthrough" topic="B08-03_0003-Journey-Analytics-Walkthrough.md"/>
+            <toc-element toc-title="NPS Analytics Walkthrough" topic="B08-04_0003-NPS-Analytics-Walkthrough.md"/>
+            <toc-element toc-title="%B04-Amelia-Answers.Settings.feature% Walkthrough" topic="B08-05_0003-Amelia-Answers-Walkthrough.md"/>
+            <toc-element toc-title="Export Recordings Walkthrough" topic="B08-06_0003-Export-Recordings-Walkthrough.md"/>
+        </toc-element>
+        <toc-element toc-title="Administration Workspace">
+            <toc-element toc-title="Administration Workspace Introduction" topic="B01-00_0001-Administration-Workspace-Intro.md"/>
+            <toc-element toc-title="Administration Workspace Walkthrough" topic="B01-00_0002-Administration-Workspace-Walk.md"/>
+            <toc-element toc-title="Domains">
+                <toc-element toc-title="Domains Introduction" topic="B01-01_0002-Domains-Intro.md"/>
+                <toc-element toc-title="Domains Management" topic="B01-01_0004-Domains-Management.md"/>
+                <toc-element toc-title="How-to: Preconfigure a Domain for %B04-Amelia-Answers.Amelia.Answers.workspace%" topic="B01-01_0008-HT-Precon-AAnswers-Responder.md"/>
+            </toc-element>
+            <toc-element toc-title="Users">
+                <toc-element toc-title="Users Walkthrough" topic="B01-02_0104-Users-Walkthrough.md"/>
+                <toc-element toc-title="Roles Walkthrough" topic="B01-02_0203-Roles-Walkthrough.md"/>
+                <toc-element toc-title="User Groups Walkthrough" topic="B01-02_0303-User-Groups-Walkthrough.md"/>
+                <toc-element toc-title="Global User Groups Walkthrough" topic="B01-02_0403-Global-User-Groups-Walkthrough.md"/>
+                <toc-element toc-title="Authorities List" topic="B01-02_0600-Authorities-List.md"/>
+            </toc-element>
+            <toc-element toc-title="Security">
+                <toc-element toc-title="Virtual Host Walkthrough" topic="B01-03_0303-Virtual-Host-Walkthrough.md"/>
+                <toc-element toc-title="Audit Logs Introduction" topic="B01-03_0701-Audit-Logs-Intro.md"/>
+                <toc-element toc-title="Audit Log Event Definitions" topic="B01-03_0702-Audit-Log-Event-Type-Definitions.md"/>
+            </toc-element>
+            <toc-element toc-title="UI">
+                <toc-element toc-title="Themes">
+                    <toc-element toc-title="Themes Introduction" topic="B01-04_0401-Themes-Intro.md"/>
+                    <toc-element toc-title="Themes Configuration" topic="B01-04_0403-Themes-Configuration.md"/>
+                </toc-element>
+                <toc-element toc-title="UI Bundles (Custom UI)">
+                    <toc-element toc-title="UI Bundles Introduction" topic="B01-04_0301-UI-Bundles-Intro.md"/>
+                    <toc-element toc-title="UI Bundles Configuration" topic="B01-04_0303-UI-Bundles-Configuration.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Content Pack Walkthrough" topic="B01-06_0003-Content-Pack-Walkthrough.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Amelia Operations Guide">
+        <toc-element toc-title="Conductor Engine CLI Introduction" topic="C01-00_0001-Conductor-Engine-CLI.md"/>
+        <toc-element toc-title="Voice Guide">
+            <toc-element toc-title="Enterprise Voice Gateway (EVG) Introduction" topic="C03-00_0002-Enterprise-Voice-Gateway-Intro.md"/>
+            <toc-element toc-title="Voice Best Practices" topic="C03-00_0001-Voice-Best-Practices.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Training Videos" topic="Training-Videos.md">
+        <toc-element toc-title="Amelia Training Videos" topic="Amelia-Training-Videos.md">
+            <toc-element toc-title="New Features" topic="Amelia-Training-Videos-New-Features.md"/>
+            <toc-element toc-title="Intents" topic="Amelia-Training-Videos-Intents.md"/>
+            <toc-element toc-title="Entities" topic="Amelia-Training-Videos-Entities.md"/>
+            <toc-element toc-title="Contact Center" topic="Amelia-Training-Videos-Contact-Center.md" hidden="true"/>
+            <toc-element toc-title="Digital Employee Builder" topic="Amelia-Training-Videos-DEB.md"/>
+            <toc-element toc-title="Trainer" topic="Amelia-Training-Videos-Trainer.md"/>
+            <toc-element toc-title="Response Pools" topic="Amelia-Training-Videos-Response-Pools.md"/>
+            <toc-element toc-title="Scripting" topic="Amelia-Training-Videos-Scripting.md"/>
+            <toc-element toc-title="Escalations" topic="Amelia-Training-Videos-Escalations.md"/>
+            <toc-element toc-title="Custom UI" topic="Amelia-Training-Videos-CustomUI.md"/>
+            <toc-element toc-title="Analytics" topic="Amelia-Training-Videos-Analytics.md"/>
+            <toc-element toc-title="Domains" topic="Amelia-Training-Videos-Domains.md"/>
+            <toc-element toc-title="Import Export" topic="Amelia-Training-Videos-Import-Export.md"/>
+            <toc-element toc-title="Tools" topic="Amelia-Training-Videos-Tools.md"/>
+        </toc-element>
+    </toc-element>

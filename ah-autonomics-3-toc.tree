@@ -1,0 +1,169 @@
+    <toc-element toc-title="Autonomics 3 Help Home" topic="home.md"/>
+    <toc-element toc-title="Autonomics Getting Started" topic="D00-00_0001-Autonomics-GS-Landing.md">
+        <toc-element toc-title="Quick Start">
+             <toc-element toc-title="Autonomics Platform" topic="D02-00_0001-Autonomics-Platform-Intro.md"/>
+             <toc-element toc-title="Access the Autonomics Platform" topic="D02-00_0003-Access-Autonomics-Platform.md"/>
+             <toc-element toc-title="Navigating the Autonomics Platform" topic="D02-00_0004-Nav-Autonomics-Platform.md"/>
+             <toc-element toc-title="Light and Dark Mode" topic="D02-00_0008-Light-Dark-Mode.md"/>
+        </toc-element>
+        <toc-element toc-title="What's New in Autonomics">
+             <toc-element toc-title="What's New in Releases" topic="D02-00_0005-Whats-New-Autonomics.md"/>
+             <toc-element toc-title="3.0.0 Announcement" topic="D02-00_0010-QS-3.0.0-Announcement.md"/>
+             <toc-element toc-title="3.1.0 Announcement" topic="D02-00_0011-QS-3.1.0-Announcement.md"/>
+             <toc-element toc-title="3.2.0 Announcement" topic="D02-00_0012-QS-3.2.0-Announcement.md"/>
+             <toc-element toc-title="3.3.0 Announcement" topic="D02-00_0013-QS-3.3.0-Announcement.md"/>
+             <toc-element toc-title="3.4.0 Announcement" topic="D02-00_0014-QS-3.4.0-Announcement.md"/>
+             <toc-element toc-title="3.5.0 Announcement" topic="D02-00_0015-QS-3.5.0-Announcement.md"/>
+             <toc-element toc-title="3.6.0 Announcement" topic="D02-00_0016-QS-3.6.0-Announcement.md"/>
+             <toc-element toc-title="3.7.0 Announcement" topic="D02-00_0017-QS-3.7.0-Announcement.md"/>
+             <toc-element toc-title="3.8.0 Announcement" topic="D02-00_0018-QS-3.8.0-Announcement.md"/>
+             <toc-element toc-title="3.9.0 Announcement" topic="D02-00_0019-QS-3.9.0-Announcement.md"/>
+             <toc-element toc-title="3.10.0 Announcement" topic="D02-00_0020-QS-3.10.0-Announcement.md"/>
+             <toc-element toc-title="3.11.0 Announcement" topic="D02-00_0021-QS-3.11.0-Announcement.md"/>
+             <toc-element toc-title="3.12.0 Announcement" topic="D02-00_0022-QS-3.12.0-Announcement.md"/>
+             <toc-element toc-title="3.13.0 Announcement" topic="D02-00_0023-QS-3.13.0-Announcement.md"/>
+             <toc-element toc-title="3.14.0 Announcement" topic="D02-00_0024-QS-3.14.0-Announcement.md"/>
+             <toc-element toc-title="3.15.0 Announcement" topic="D02-00_0025-QS-3.15.0-Announcement.md"/>
+        </toc-element>
+         <toc-element toc-title="Autonomics Release Notes" topic="Autonomics-3-x-Release-Notes.md"/>
+    </toc-element>
+    <toc-element toc-title="Autonomics User Guide" topic="E00-00_0001-Autonomics-UG-Landing.md">
+        <toc-element toc-title="Operation Workspace">
+            <toc-element toc-title="Task Module">
+                 <toc-element toc-title="Tasks Module Introduction" topic="E01-01_0002-Tasks-Module-Intro.md"/>
+                 <toc-element toc-title="Tasks Module Walkthrough" topic="E01-01_0003-Tasks-Mod-Walk.md"/>
+                 <toc-element toc-title="Tasks Management" topic="E01-01_0004-Tasks-Mgmnt.md"/>
+                 <toc-element toc-title="Settings Walkthrough" topic="E01-01_0005-Settings-Mod-Walk.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Autonomics Workspace">
+            <toc-element toc-title="Autonomics Workspace Introduction" topic="E02-00_0001-Autonomics-WS-Intro.md"/>
+            <toc-element toc-title="Automations Management" topic="E02-01_0004-Automations-Mgmnt.md"/>
+            <toc-element toc-title="Automations Module">
+                 <toc-element toc-title="Automations Module Introduction" topic="E02-01_0002-Automations-Mod-Intro.md"/>
+                 <toc-element toc-title="Automations Module Walkthrough" topic="E02-01_0003-Automations-Mod-Walk.md"/>
+                 <toc-element toc-title="Executions Management" topic="E02-01_0005-Executions-Mgmnt.md"/>
+                 <toc-element toc-title="Matchers Management" topic="E02-01_0010-Matchers-Mgmnt.md"/>
+                 <toc-element toc-title="Script Library Management" topic="E02-01_0007-Script-Library-Mgmnt.md"/>
+                 <toc-element toc-title="Allowed Commands Management" topic="E02-01_0012-Allowed-Commands-Mgmnt.md"/>
+                 <toc-element toc-title="Denied Commands Management" topic="E02-01_0013-Denied-Commands-Mgmnt.md"/>
+                 <toc-element toc-title="Automations Lite Management" topic="E02-01_0009-Automations-Lite-Mgmnt.md"/>
+                 <toc-element toc-title="Knowledge Management" topic="E02-01_0011-Knowledge-Mgmnt.md"/>
+                 <toc-element toc-title="Settings Management" topic="E02-01_0008-Settings-Mgmnt.md"/>
+            </toc-element>
+            <toc-element toc-title="Automation Studio">
+                 <toc-element toc-title="Automation Studio Introduction" topic="E02-01_0019-Automation-Studio-Intro.md"/>
+                 <toc-element toc-title="Automation Studio Walkthrough" topic="E02-01_0020_Automation-Studio-Walk.md"/>
+                 <toc-element toc-title="Actions Library Introduction" topic="E02-01_0021-Actions-Library-Intro.md"/>
+                 <toc-element toc-title="AIF API Action" topic="E02-01_0038-AIF-API-Action.md"/>
+                 <toc-element toc-title="Autonomics API Action" topic="E02-01_0033-AIOps-API-Action.md"/>
+                 <toc-element toc-title="Edit Variable Action" topic="E02-01_0030-Edit-Variable-Action.md"/>
+                 <toc-element toc-title="Email Action" topic="E02-01_0035-Email-Action.md"/>
+                 <toc-element toc-title="Fork Action" topic="E02-01_0026-Fork-Action.md"/>
+                 <toc-element toc-title="Get Credentials Action" topic="E02-01_0040-Get-Credentials-Action.md"/>
+                 <toc-element toc-title="Global Connect Action" topic="E02-01_0022-Global-Connect-Action.md"/>
+                 <toc-element toc-title="Host Command Action" topic="E02-01_0032-HostCommand-Action.md"/>
+                 <toc-element toc-title="HTTP Request Action" topic="E02-01_0034-HTTPRequest-Action.md"/>
+                 <toc-element toc-title="Join Action" topic="E02-01_0027-Join-Action.md"/>
+                 <toc-element toc-title="Link Action" topic="E02-01_0028-Link-Action.md"/>
+                 <toc-element toc-title="Noop Action" topic="E02-01_0025-Noop-Action.md"/>
+                 <toc-element toc-title="Phone Call Action" topic="E02-01_0039-Phone-Call-Action.md"/>
+                 <toc-element toc-title="Script Action" topic="E02-01_0031-Script-Action.md"/>
+                 <toc-element toc-title="Send HyperA Message Action" topic="E02-01_0041-Send-HyperA-Msge-Action.md"/>
+                 <toc-element toc-title="Start Action" topic="E02-01_0023-Start-Action.md"/>
+                 <toc-element toc-title="Success Action" topic="E02-01_0024-Success-Action.md"/>
+                 <toc-element toc-title="Task Lifecycle Action" topic="E02-01_0037-TaskLifecycle-Action.md"/>
+                 <toc-element toc-title="Timed Wait Action" topic="E02-01_0029-TimedWait-Action.md"/>
+                 <toc-element toc-title="Update Task Action" topic="E02-01_0036-UpdateTask-Action.md"/>
+            </toc-element>
+            <toc-element toc-title="Connections Module">
+                 <toc-element toc-title="Connections Introduction" topic="E02-04_0002-Connection-Mod-Intro.md"/>
+                 <toc-element toc-title="Connections Management" topic="E02-04_0004-Connections-Mgmnt.md"/>
+                 <toc-element toc-title="Connection Sessions Walkthrough" topic="E02-04_0003-Connection-Sessions-Walk.md"/>
+            </toc-element>
+            <toc-element toc-title="Credentials">
+                 <toc-element toc-title="Credentials Introduction" topic="E02-05_0002-Credentials-Mod-Intro.md"/>
+                 <toc-element toc-title="Passwords Walkthrough" topic="E02-05_0005-Passwords-Mod-Walk.md"/>
+                 <toc-element toc-title="Users Walkthrough" topic="E02-05_0006-Users-Mod-Walk.md"/>
+                 <toc-element toc-title="Groups Walkthrough" topic="E02-05_0007-Groups-Mod-Walk.md"/>
+                 <toc-element toc-title="Audit Events Walkthrough" topic="E02-05_0008-Audit-Events-Mod-Walk.md"/>
+            </toc-element>
+            <toc-element toc-title="Scheduling Module">
+                 <toc-element toc-title="Scheduling Introduction" topic="E02-06_0002-Scheduling-Mod-Intro.md"/>
+                 <toc-element toc-title="Scheduling Management" topic="E02-06_0004-Scheduling-Mgmnt.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Configuration Workspace">
+            <toc-element toc-title="CMDB Module">
+                 <toc-element toc-title="CMDB Introduction" topic="E04-01_0002-CMDB-Mod-Intro.md"/>
+                 <toc-element toc-title="CMDB Scopes Walkthrough" topic="E04-01_0005-CMDB-Scopes-Walkthrough.md"/>
+                 <toc-element toc-title="CMDB CIs Walkthrough" topic="E04-01_0006-CMDB-CIs-Walkthrough.md"/>
+                 <toc-element toc-title="CMDB Discoveries Walkthrough" topic="E04-01_0007-CMDB-Discoveries-Walkthrough.md"/>
+                 <toc-element toc-title="CMDB History Walkthrough" topic="E04-01_0008-CMDB-History-Walkthrough.md"/>
+            </toc-element>
+            <toc-element toc-title="Events Management Module">
+                 <toc-element toc-title="Events Management Introduction" topic="E04-02_0002-Event-Mgmnt-Mod-Intro.md"/>
+                 <toc-element toc-title="Correlation Walkthrough" topic="E04-02_0103-Correlation-Mod-Walk.md"/>
+                 <toc-element toc-title="Event Rules Walkthrough" topic="E04-02_0303-Event-Rules-WS-Walk.md"/>
+                 <toc-element toc-title="Downtime Rules Walkthrough" topic="E04-02_0403-Downtime-Rules-WS-Walk.md"/>
+                 <toc-element toc-title="Attributes Walkthrough" topic="E04-02_0203-Attributes-WS-Walk.md"/>
+            </toc-element>
+            <toc-element toc-title="Workflows Module">
+                 <toc-element toc-title="Workflow Introduction" topic="E04-03_0002-Workflow-Mod-Intro.md"/>
+                 <toc-element toc-title="Workflow Management" topic="E04-03_0004-Workflow-Mgmnt.md"/>
+                 <toc-element toc-title="Workflow Settings" topic="E04-05_0003-Workflow-Settings-Mod-Walk.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Administration Workspace">
+             <toc-element toc-title="Administration Introduction" topic="E05-00_0001-Admin-WS-Intro.md"/>
+            <toc-element toc-title="Settings Module">
+                 <toc-element toc-title="Clients Walkthrough" topic="E05-01_0005-Clients-Walkthrough.md"/>
+                 <toc-element toc-title="Users Walkthrough" topic="E05-01_0006-Users-Walkthrough.md"/>
+                 <toc-element toc-title="Login Groups Walkthrough" topic="E05-01_0007-Login-Groups-Walkthrough.md"/>
+                 <toc-element toc-title="Roles Walkthrough" topic="E05-01_0040-Roles-Walkthrough.md"/>
+                 <toc-element toc-title="Roles Authorities" topic="E05-01_0040-Roles-Authorities.md"/>
+                 <toc-element toc-title="Tags Walkthrough" topic="E05-01_0014-Tags-Walkthrough.md"/>
+                 <toc-element toc-title="Integrations">
+                    <toc-element toc-title="Integrations Introduction" topic="E05-01_0010-Integrations-Mod-Intro.md"/>
+                    <toc-element toc-title="Integrations Management" topic="E05-01_0011-Integrations-Mngmnt.md"/>
+                    <toc-element toc-title="Integrations Library" topic="E05-01_0012-Integrations-Library.md"/>
+                    <toc-element toc-title="Confluence Integration" topic="E05-01_0015-HT-Config-Autonomics-Confluence.md"/>
+                    <toc-element toc-title="Event Inbound Endpoint - Async Integration" topic="E05-01_0017-HT-Config-Autonomics-Event-Webhook-Async.md"/>
+                    <toc-element toc-title="Event Inbound Endpoint - Sync Integration" topic="E05-01_0016-HT-Config-Autonomics-Event-Webhook-Sync.md"/>
+                    <toc-element toc-title="Generative AI Integration" topic="E05-01_0020-HT-Config-Autonomics-Gen-AI.md"/>
+                    <toc-element toc-title="Gmail Integration" topic="E05-01_0027-HT-Config-Autonomics-Gmail.md"/>
+                    <toc-element toc-title="Internal Knowledge Engine Integration" topic="E05-01_0026-HT-Config-Autonomics-Int-Know-Engine.md"/>
+                    <toc-element toc-title="Java Integration" topic="E05-01_0030-HT-Config-Autonomics-Java.md"/>
+                    <toc-element toc-title="Metrics Webhook Integration" topic="E05-01_0028-HT-Config-Autonomics-Metrics-Webhook.md"/>
+                    <toc-element toc-title="Office 365 Integration" topic="E05-01_0019-HT-Config-Autonomics-Office365.md"/>
+                    <toc-element toc-title="Prometheus Integration" topic="E05-01_0029-HT-Config-Autonomics-Prometheus.md"/>
+                    <toc-element toc-title="ServiceNow CMDB Integration" topic="E05-01_0031-HT-Config-Autonomics-ServiceNow-CMDB.md"/>
+                    <toc-element toc-title="ServiceNow Incident Integration" topic="E05-01_0021-HT-Config-Autonomics-ServiceNow-Incident.md"/>
+                    <toc-element toc-title="ServiceNow Knowledge Integration" topic="E05-01_0018-HT-Config-Autonomics-ServiceNow-Knowledge.md"/>
+                    <toc-element toc-title="Zabbix Event Integration" topic="E05-01_0022-HT-Config-Autonomics-Zabbix-Event.md"/>
+                    <toc-element toc-title="Zabbix Metric Integration" topic="E05-01_0023-HT-Config-Autonomics-Zabbix-Metric.md"/>
+                    <toc-element toc-title="Zabbix Stream Event Integration" topic="E05-01_0024-HT-Config-Autonomics-Zabbix-Stream-Event.md"/>
+                    <toc-element toc-title="Zabbix Stream Metric Integration" topic="E05-01_0025-HT-Config-Autonomics-Zabbix-Stream-Metric.md"/>
+                 </toc-element>
+                 <toc-element toc-title="Authentication Systems Management" topic="E05-01_0009-Auth-Systems-Mngmnt.md"/>
+                 <toc-element toc-title="Password Policies Management" topic="E05-01_0008-Password-Policies-Mngmnt.md"/>
+                 <toc-element toc-title="Themes Walkthrough" topic="E05-01_0041-Themes-Walkthrough.md"/>
+                 <toc-element toc-title="Virtual Hosts Walkthrough" topic="E05-01_0042-VirtualHosts-Walkthrough.md"/>
+             </toc-element>
+             <toc-element toc-title="Content Packs Walkthrough" topic="E05-02_0003-Content-Packs-Mod-Walk.md"/>
+             <toc-element toc-title="Audit Walkthrough" topic="E05-03_0001-Audit-Mod-Walk.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Autonomics (AIOps) Operations Guide">
+         <toc-element toc-title="ALite Install Guide" topic="F00-00_0001-HT-ALite-Install.md"/>
+    </toc-element>
+    <toc-element toc-title="Training Videos" topic="Training-Videos.md">
+        <toc-element toc-title="Autonomics Training Videos" topic="Autonomics-Training-Videos.md">
+             <toc-element toc-title="Tasks" topic="Autonomics-Training-Videos-Tasks.md"/>
+             <toc-element toc-title="Automations" topic="Autonomics-Training-Videos-Automations.md"/>
+             <toc-element toc-title="Connections" topic="Autonomics-Training-Videos-Connections.md"/>
+             <toc-element toc-title="Rules" topic="Autonomics-Training-Videos-Rules.md"/>
+             <toc-element toc-title="Scheduling" topic="Autonomics-Training-Videos-Scheduling.md"/>
+             <toc-element toc-title="Monitoring Zabbix" topic="Autonomics-Training-Videos-Monitoring-Zabbix.md"/>
+        </toc-element>
+    </toc-element>
