@@ -1,3 +1,21 @@
+# Convert Writerside TREE File to Markdoc JSON File
+
+The utility `xml-converter.py` converts a Writerside TREE file to a JSON file that can be used as `sidenav.json` in a Markdoc project. That JSON file controls which entries show up in the side navigation.
+
+## Syntax and usage
+
+To convert a TREE file to a JSON file suitable to be used as `sidenav.json`, use the following command:
+
+```bash
+/path/to/xml-converter <file-name-of-tree-file>
+# Example: ./xml-converter ah-amelia-7-toc.tree
+# This example creates ah-amelia-7-toc.json
+```
+
+Running the converter creates an identically named file with extension `.json` instead of `.tree` in the same folder as the source file. The utility is non-destructive, since it doesn't delete the original file.
+
+## Prompt
+
 This is the prompt that I used with Claude Code to generate the Python script:
 
 I need to convert a series of documents from XML to JSON version. Every XML element in the source file correspond to a dictionary in the JSON file. Here's an example of a conversion from an XML element that has no children to the equivalent JSON dictionary:
