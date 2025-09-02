@@ -1,0 +1,616 @@
+[
+  {
+    "label": "Autonomics 3 Help Home",
+    "path": "home"
+  },
+  {
+    "label": "Autonomics Getting Started",
+    "path": "D00-00_0001-Autonomics-GS-Landing",
+    "children": [
+      {
+        "label": "Quick Start",
+        "children": [
+          {
+            "label": "Autonomics Platform",
+            "path": "D02-00_0001-Autonomics-Platform-Intro"
+          },
+          {
+            "label": "Access the Autonomics Platform",
+            "path": "D02-00_0003-Access-Autonomics-Platform"
+          },
+          {
+            "label": "Navigating the Autonomics Platform",
+            "path": "D02-00_0004-Nav-Autonomics-Platform"
+          },
+          {
+            "label": "Light and Dark Mode",
+            "path": "D02-00_0008-Light-Dark-Mode"
+          }
+        ]
+      },
+      {
+        "label": "What's New in Autonomics",
+        "children": [
+          {
+            "label": "What's New in Releases",
+            "path": "D02-00_0005-Whats-New-Autonomics"
+          },
+          {
+            "label": "3.0.0 Announcement",
+            "path": "D02-00_0010-QS-3.0.0-Announcement"
+          },
+          {
+            "label": "3.1.0 Announcement",
+            "path": "D02-00_0011-QS-3.1.0-Announcement"
+          },
+          {
+            "label": "3.2.0 Announcement",
+            "path": "D02-00_0012-QS-3.2.0-Announcement"
+          },
+          {
+            "label": "3.3.0 Announcement",
+            "path": "D02-00_0013-QS-3.3.0-Announcement"
+          },
+          {
+            "label": "3.4.0 Announcement",
+            "path": "D02-00_0014-QS-3.4.0-Announcement"
+          },
+          {
+            "label": "3.5.0 Announcement",
+            "path": "D02-00_0015-QS-3.5.0-Announcement"
+          },
+          {
+            "label": "3.6.0 Announcement",
+            "path": "D02-00_0016-QS-3.6.0-Announcement"
+          },
+          {
+            "label": "3.7.0 Announcement",
+            "path": "D02-00_0017-QS-3.7.0-Announcement"
+          },
+          {
+            "label": "3.8.0 Announcement",
+            "path": "D02-00_0018-QS-3.8.0-Announcement"
+          },
+          {
+            "label": "3.9.0 Announcement",
+            "path": "D02-00_0019-QS-3.9.0-Announcement"
+          },
+          {
+            "label": "3.10.0 Announcement",
+            "path": "D02-00_0020-QS-3.10.0-Announcement"
+          },
+          {
+            "label": "3.11.0 Announcement",
+            "path": "D02-00_0021-QS-3.11.0-Announcement"
+          },
+          {
+            "label": "3.12.0 Announcement",
+            "path": "D02-00_0022-QS-3.12.0-Announcement"
+          },
+          {
+            "label": "3.13.0 Announcement",
+            "path": "D02-00_0023-QS-3.13.0-Announcement"
+          },
+          {
+            "label": "3.14.0 Announcement",
+            "path": "D02-00_0024-QS-3.14.0-Announcement"
+          },
+          {
+            "label": "3.15.0 Announcement",
+            "path": "D02-00_0025-QS-3.15.0-Announcement"
+          }
+        ]
+      },
+      {
+        "label": "Autonomics Release Notes",
+        "path": "Autonomics-3-x-Release-Notes"
+      }
+    ]
+  },
+  {
+    "label": "Autonomics User Guide",
+    "path": "E00-00_0001-Autonomics-UG-Landing",
+    "children": [
+      {
+        "label": "Operation Workspace",
+        "children": [
+          {
+            "label": "Task Module",
+            "children": [
+              {
+                "label": "Tasks Module Introduction",
+                "path": "E01-01_0002-Tasks-Module-Intro"
+              },
+              {
+                "label": "Tasks Module Walkthrough",
+                "path": "E01-01_0003-Tasks-Mod-Walk"
+              },
+              {
+                "label": "Tasks Management",
+                "path": "E01-01_0004-Tasks-Mgmnt"
+              },
+              {
+                "label": "Settings Walkthrough",
+                "path": "E01-01_0005-Settings-Mod-Walk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Autonomics Workspace",
+        "children": [
+          {
+            "label": "Autonomics Workspace Introduction",
+            "path": "E02-00_0001-Autonomics-WS-Intro"
+          },
+          {
+            "label": "Automations Management",
+            "path": "E02-01_0004-Automations-Mgmnt"
+          },
+          {
+            "label": "Automations Module",
+            "children": [
+              {
+                "label": "Automations Module Introduction",
+                "path": "E02-01_0002-Automations-Mod-Intro"
+              },
+              {
+                "label": "Automations Module Walkthrough",
+                "path": "E02-01_0003-Automations-Mod-Walk"
+              },
+              {
+                "label": "Executions Management",
+                "path": "E02-01_0005-Executions-Mgmnt"
+              },
+              {
+                "label": "Matchers Management",
+                "path": "E02-01_0010-Matchers-Mgmnt"
+              },
+              {
+                "label": "Script Library Management",
+                "path": "E02-01_0007-Script-Library-Mgmnt"
+              },
+              {
+                "label": "Allowed Commands Management",
+                "path": "E02-01_0012-Allowed-Commands-Mgmnt"
+              },
+              {
+                "label": "Denied Commands Management",
+                "path": "E02-01_0013-Denied-Commands-Mgmnt"
+              },
+              {
+                "label": "Automations Lite Management",
+                "path": "E02-01_0009-Automations-Lite-Mgmnt"
+              },
+              {
+                "label": "Knowledge Management",
+                "path": "E02-01_0011-Knowledge-Mgmnt"
+              },
+              {
+                "label": "Settings Management",
+                "path": "E02-01_0008-Settings-Mgmnt"
+              }
+            ]
+          },
+          {
+            "label": "Automation Studio",
+            "children": [
+              {
+                "label": "Automation Studio Introduction",
+                "path": "E02-01_0019-Automation-Studio-Intro"
+              },
+              {
+                "label": "Automation Studio Walkthrough",
+                "path": "E02-01_0020_Automation-Studio-Walk"
+              },
+              {
+                "label": "Actions Library Introduction",
+                "path": "E02-01_0021-Actions-Library-Intro"
+              },
+              {
+                "label": "AIF API Action",
+                "path": "E02-01_0038-AIF-API-Action"
+              },
+              {
+                "label": "Autonomics API Action",
+                "path": "E02-01_0033-AIOps-API-Action"
+              },
+              {
+                "label": "Edit Variable Action",
+                "path": "E02-01_0030-Edit-Variable-Action"
+              },
+              {
+                "label": "Email Action",
+                "path": "E02-01_0035-Email-Action"
+              },
+              {
+                "label": "Fork Action",
+                "path": "E02-01_0026-Fork-Action"
+              },
+              {
+                "label": "Get Credentials Action",
+                "path": "E02-01_0040-Get-Credentials-Action"
+              },
+              {
+                "label": "Global Connect Action",
+                "path": "E02-01_0022-Global-Connect-Action"
+              },
+              {
+                "label": "Host Command Action",
+                "path": "E02-01_0032-HostCommand-Action"
+              },
+              {
+                "label": "HTTP Request Action",
+                "path": "E02-01_0034-HTTPRequest-Action"
+              },
+              {
+                "label": "Join Action",
+                "path": "E02-01_0027-Join-Action"
+              },
+              {
+                "label": "Link Action",
+                "path": "E02-01_0028-Link-Action"
+              },
+              {
+                "label": "Noop Action",
+                "path": "E02-01_0025-Noop-Action"
+              },
+              {
+                "label": "Phone Call Action",
+                "path": "E02-01_0039-Phone-Call-Action"
+              },
+              {
+                "label": "Script Action",
+                "path": "E02-01_0031-Script-Action"
+              },
+              {
+                "label": "Send HyperA Message Action",
+                "path": "E02-01_0041-Send-HyperA-Msge-Action"
+              },
+              {
+                "label": "Start Action",
+                "path": "E02-01_0023-Start-Action"
+              },
+              {
+                "label": "Success Action",
+                "path": "E02-01_0024-Success-Action"
+              },
+              {
+                "label": "Task Lifecycle Action",
+                "path": "E02-01_0037-TaskLifecycle-Action"
+              },
+              {
+                "label": "Timed Wait Action",
+                "path": "E02-01_0029-TimedWait-Action"
+              },
+              {
+                "label": "Update Task Action",
+                "path": "E02-01_0036-UpdateTask-Action"
+              }
+            ]
+          },
+          {
+            "label": "Connections Module",
+            "children": [
+              {
+                "label": "Connections Introduction",
+                "path": "E02-04_0002-Connection-Mod-Intro"
+              },
+              {
+                "label": "Connections Management",
+                "path": "E02-04_0004-Connections-Mgmnt"
+              },
+              {
+                "label": "Connection Sessions Walkthrough",
+                "path": "E02-04_0003-Connection-Sessions-Walk"
+              }
+            ]
+          },
+          {
+            "label": "Credentials",
+            "children": [
+              {
+                "label": "Credentials Introduction",
+                "path": "E02-05_0002-Credentials-Mod-Intro"
+              },
+              {
+                "label": "Passwords Walkthrough",
+                "path": "E02-05_0005-Passwords-Mod-Walk"
+              },
+              {
+                "label": "Users Walkthrough",
+                "path": "E02-05_0006-Users-Mod-Walk"
+              },
+              {
+                "label": "Groups Walkthrough",
+                "path": "E02-05_0007-Groups-Mod-Walk"
+              },
+              {
+                "label": "Audit Events Walkthrough",
+                "path": "E02-05_0008-Audit-Events-Mod-Walk"
+              }
+            ]
+          },
+          {
+            "label": "Scheduling Module",
+            "children": [
+              {
+                "label": "Scheduling Introduction",
+                "path": "E02-06_0002-Scheduling-Mod-Intro"
+              },
+              {
+                "label": "Scheduling Management",
+                "path": "E02-06_0004-Scheduling-Mgmnt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Configuration Workspace",
+        "children": [
+          {
+            "label": "CMDB Module",
+            "children": [
+              {
+                "label": "CMDB Introduction",
+                "path": "E04-01_0002-CMDB-Mod-Intro"
+              },
+              {
+                "label": "CMDB Scopes Walkthrough",
+                "path": "E04-01_0005-CMDB-Scopes-Walkthrough"
+              },
+              {
+                "label": "CMDB CIs Walkthrough",
+                "path": "E04-01_0006-CMDB-CIs-Walkthrough"
+              },
+              {
+                "label": "CMDB Discoveries Walkthrough",
+                "path": "E04-01_0007-CMDB-Discoveries-Walkthrough"
+              },
+              {
+                "label": "CMDB History Walkthrough",
+                "path": "E04-01_0008-CMDB-History-Walkthrough"
+              }
+            ]
+          },
+          {
+            "label": "Events Management Module",
+            "children": [
+              {
+                "label": "Events Management Introduction",
+                "path": "E04-02_0002-Event-Mgmnt-Mod-Intro"
+              },
+              {
+                "label": "Correlation Walkthrough",
+                "path": "E04-02_0103-Correlation-Mod-Walk"
+              },
+              {
+                "label": "Event Rules Walkthrough",
+                "path": "E04-02_0303-Event-Rules-WS-Walk"
+              },
+              {
+                "label": "Downtime Rules Walkthrough",
+                "path": "E04-02_0403-Downtime-Rules-WS-Walk"
+              },
+              {
+                "label": "Attributes Walkthrough",
+                "path": "E04-02_0203-Attributes-WS-Walk"
+              }
+            ]
+          },
+          {
+            "label": "Workflows Module",
+            "children": [
+              {
+                "label": "Workflow Introduction",
+                "path": "E04-03_0002-Workflow-Mod-Intro"
+              },
+              {
+                "label": "Workflow Management",
+                "path": "E04-03_0004-Workflow-Mgmnt"
+              },
+              {
+                "label": "Workflow Settings",
+                "path": "E04-05_0003-Workflow-Settings-Mod-Walk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Administration Workspace",
+        "children": [
+          {
+            "label": "Administration Introduction",
+            "path": "E05-00_0001-Admin-WS-Intro"
+          },
+          {
+            "label": "Settings Module",
+            "children": [
+              {
+                "label": "Clients Walkthrough",
+                "path": "E05-01_0005-Clients-Walkthrough"
+              },
+              {
+                "label": "Users Walkthrough",
+                "path": "E05-01_0006-Users-Walkthrough"
+              },
+              {
+                "label": "Login Groups Walkthrough",
+                "path": "E05-01_0007-Login-Groups-Walkthrough"
+              },
+              {
+                "label": "Roles Walkthrough",
+                "path": "E05-01_0040-Roles-Walkthrough"
+              },
+              {
+                "label": "Roles Authorities",
+                "path": "E05-01_0040-Roles-Authorities"
+              },
+              {
+                "label": "Tags Walkthrough",
+                "path": "E05-01_0014-Tags-Walkthrough"
+              },
+              {
+                "label": "Integrations",
+                "children": [
+                  {
+                    "label": "Integrations Introduction",
+                    "path": "E05-01_0010-Integrations-Mod-Intro"
+                  },
+                  {
+                    "label": "Integrations Management",
+                    "path": "E05-01_0011-Integrations-Mngmnt"
+                  },
+                  {
+                    "label": "Integrations Library",
+                    "path": "E05-01_0012-Integrations-Library"
+                  },
+                  {
+                    "label": "Confluence Integration",
+                    "path": "E05-01_0015-HT-Config-Autonomics-Confluence"
+                  },
+                  {
+                    "label": "Event Inbound Endpoint - Async Integration",
+                    "path": "E05-01_0017-HT-Config-Autonomics-Event-Webhook-Async"
+                  },
+                  {
+                    "label": "Event Inbound Endpoint - Sync Integration",
+                    "path": "E05-01_0016-HT-Config-Autonomics-Event-Webhook-Sync"
+                  },
+                  {
+                    "label": "Generative AI Integration",
+                    "path": "E05-01_0020-HT-Config-Autonomics-Gen-AI"
+                  },
+                  {
+                    "label": "Gmail Integration",
+                    "path": "E05-01_0027-HT-Config-Autonomics-Gmail"
+                  },
+                  {
+                    "label": "Internal Knowledge Engine Integration",
+                    "path": "E05-01_0026-HT-Config-Autonomics-Int-Know-Engine"
+                  },
+                  {
+                    "label": "Java Integration",
+                    "path": "E05-01_0030-HT-Config-Autonomics-Java"
+                  },
+                  {
+                    "label": "Metrics Webhook Integration",
+                    "path": "E05-01_0028-HT-Config-Autonomics-Metrics-Webhook"
+                  },
+                  {
+                    "label": "Office 365 Integration",
+                    "path": "E05-01_0019-HT-Config-Autonomics-Office365"
+                  },
+                  {
+                    "label": "Prometheus Integration",
+                    "path": "E05-01_0029-HT-Config-Autonomics-Prometheus"
+                  },
+                  {
+                    "label": "ServiceNow CMDB Integration",
+                    "path": "E05-01_0031-HT-Config-Autonomics-ServiceNow-CMDB"
+                  },
+                  {
+                    "label": "ServiceNow Incident Integration",
+                    "path": "E05-01_0021-HT-Config-Autonomics-ServiceNow-Incident"
+                  },
+                  {
+                    "label": "ServiceNow Knowledge Integration",
+                    "path": "E05-01_0018-HT-Config-Autonomics-ServiceNow-Knowledge"
+                  },
+                  {
+                    "label": "Zabbix Event Integration",
+                    "path": "E05-01_0022-HT-Config-Autonomics-Zabbix-Event"
+                  },
+                  {
+                    "label": "Zabbix Metric Integration",
+                    "path": "E05-01_0023-HT-Config-Autonomics-Zabbix-Metric"
+                  },
+                  {
+                    "label": "Zabbix Stream Event Integration",
+                    "path": "E05-01_0024-HT-Config-Autonomics-Zabbix-Stream-Event"
+                  },
+                  {
+                    "label": "Zabbix Stream Metric Integration",
+                    "path": "E05-01_0025-HT-Config-Autonomics-Zabbix-Stream-Metric"
+                  }
+                ]
+              },
+              {
+                "label": "Authentication Systems Management",
+                "path": "E05-01_0009-Auth-Systems-Mngmnt"
+              },
+              {
+                "label": "Password Policies Management",
+                "path": "E05-01_0008-Password-Policies-Mngmnt"
+              },
+              {
+                "label": "Themes Walkthrough",
+                "path": "E05-01_0041-Themes-Walkthrough"
+              },
+              {
+                "label": "Virtual Hosts Walkthrough",
+                "path": "E05-01_0042-VirtualHosts-Walkthrough"
+              }
+            ]
+          },
+          {
+            "label": "Content Packs Walkthrough",
+            "path": "E05-02_0003-Content-Packs-Mod-Walk"
+          },
+          {
+            "label": "Audit Walkthrough",
+            "path": "E05-03_0001-Audit-Mod-Walk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Autonomics (AIOps) Operations Guide",
+    "children": [
+      {
+        "label": "ALite Install Guide",
+        "path": "F00-00_0001-HT-ALite-Install"
+      }
+    ]
+  },
+  {
+    "label": "Training Videos",
+    "path": "Training-Videos",
+    "children": [
+      {
+        "label": "Autonomics Training Videos",
+        "path": "Autonomics-Training-Videos",
+        "children": [
+          {
+            "label": "Tasks",
+            "path": "Autonomics-Training-Videos-Tasks"
+          },
+          {
+            "label": "Automations",
+            "path": "Autonomics-Training-Videos-Automations"
+          },
+          {
+            "label": "Connections",
+            "path": "Autonomics-Training-Videos-Connections"
+          },
+          {
+            "label": "Rules",
+            "path": "Autonomics-Training-Videos-Rules"
+          },
+          {
+            "label": "Scheduling",
+            "path": "Autonomics-Training-Videos-Scheduling"
+          },
+          {
+            "label": "Monitoring Zabbix",
+            "path": "Autonomics-Training-Videos-Monitoring-Zabbix"
+          }
+        ]
+      }
+    ]
+  }
+]
